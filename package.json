@@ -1,0 +1,16 @@
+{
+  "name": "encryted-api-f3w.pages.dev",
+  "version": "1.0.0",
+  "description": "Description of your Node.js application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build script placeholder (if needed)'"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.17.1",
+    "nodemailer": "^6.7.0"
+  }
+}
